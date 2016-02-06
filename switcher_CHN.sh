@@ -25,6 +25,6 @@ sudo kextunload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns
 echo " "
 echo $?
 echo "上面显示 0 的话证明成功～感谢使用～ψ(｀∇´)ψ"
-echo " "
+echo "再次运行本程序就可以开启键盘啦～"
 echo " "
 echo " "
