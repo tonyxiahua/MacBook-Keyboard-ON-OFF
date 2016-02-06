@@ -32,7 +32,7 @@ redniktony supported 100%
 
 There are only two language versions for this script file: CHN & ENG
 
-### Donation ###
+##Donation ##
 
 I am eating dirt now. Please give me something to eat : ( Also I am homeless.
 
