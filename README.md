@@ -31,3 +31,10 @@ redniktony supported 100%
 ##Translation
 
 There are only two language versions for this script file: CHN & ENG
+
+### Donation ###
+
+I am eating dirt now. Please give me something to eat : ( Also I am homeless.
+
+* Me: [rednik111@gmail.com](https://paypal.me/rednik)
+PayPal accepted.
