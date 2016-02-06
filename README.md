@@ -1,4 +1,4 @@
-# MacBook Keyboard Switcher
+# MacBook Keyboard ON/OFF
 A shell script for OS X users to turn on or off your MacBook internal keyboard.
 ##Introduction
 
@@ -15,11 +15,11 @@ Mistype happen all the times. So the best soulution is turn off the the keyborad
 ```script
 cd **YOUR FOLDER NANME**
 ```
-4. Type
+
 ```script
 chmod +x switcher_ENG.sh
 ```
-5. And type
+
 ```script
 ./switcher_ENG.sh
 ```
