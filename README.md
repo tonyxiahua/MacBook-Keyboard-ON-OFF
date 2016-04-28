@@ -17,11 +17,11 @@ cd **YOUR FOLDER NANME**
 ```
 
 ```script
-chmod +x switcher_ENG.sh
+sudo chmod +x switcher_ENG.sh
 ```
 
 ```script
-./switcher_ENG.sh
+sudo ./switcher_ENG.sh
 ```
 
 ##Supporter
