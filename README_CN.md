@@ -8,10 +8,10 @@ Macbook 键盘关闭器
   `cd **YOUR FOLDER NANME**`
 2. 把文件改为可以运行的.sh文件
 
-  `chmod +x switcher_CHN.sh`
+  `sudo chmod +x switcher_CHN.sh`
 3. 运行文件
 
-  `./switcher_CHN.sh`
+  `sudo ./switcher_CHN.sh`
 
 ##注意事项
 请在拥有一个外置键盘的情况下使用本脚本，否则需要重启才能够成功开启回去。
