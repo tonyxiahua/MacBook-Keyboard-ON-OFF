@@ -5,7 +5,7 @@ A shell script for OS X users to turn on or off your MacBook internal keyboard.
 I think many people have the problem while they put their own keyboard on the top of the internal Macbook keyborad.
 Mistype happen all the times. So the best soulution is turn off the the keyborad. Here is my script file.
 
-##Useage
+##Usage
 
 1. Download the switcher_ENG.sh into your folder (e.g. downloads) and PLEASE remember your folder name.
 
