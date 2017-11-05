@@ -33,4 +33,4 @@ redniktony supported 100%
 There are only two language versions for this script file: CHN & ENG
 
 ## Donation
-This program is so garbage that not deserve any kind of donation.
+This program is so garbage that does not deserve any kind of donation.
